@@ -1,3 +1,0 @@
-This PowerShell script, OldComputerLookup.ps1, is designed to identify stale (inactive) computer accounts in Active Directory (AD) by checking when they last logged onto the domain.
-
-Same as the user lookup, but for computer accounts. Helps you find stale accounts for machines that may not have been deleted from AD when they were renamed, or if the hardware was replaced etc.
