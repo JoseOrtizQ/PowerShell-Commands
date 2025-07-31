@@ -1,0 +1,3 @@
+This PowerShell script, OldUserLookup.ps1, serves the purpose of identifying inactive user accounts in Active Directory (AD) based on their last logon timestamp.
+
+This one does exactly what is says on the tin. It searches AD for user accounts that haven't logged on to the system in a certain number of days (you can set the number of days by changing the $age variable in the script) and outputs everything to a neat CSV file. Because since when does HR tell you about EVERY leaver?
